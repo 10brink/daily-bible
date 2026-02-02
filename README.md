@@ -1,6 +1,7 @@
 # Daily Bible Verse
 
 A React web app that displays a different Bible verse each day, set against classical religious artwork.
+<img width="337" height="729" alt="image" src="https://github.com/user-attachments/assets/72d4763b-8f52-4a06-964b-10c0a902c41c" />
 
 ## Features
 
