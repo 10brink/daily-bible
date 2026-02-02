@@ -1,0 +1,3436 @@
+[
+  {
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "reference": "John 3:16",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.545
+      },
+      {
+        "reference": "Romans 8:28",
+        "similarity": 0.507
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.49
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "I can do all things through Christ who strengthens me.",
+    "reference": "Philippians 4:13",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "2 Peter 3:18",
+        "similarity": 0.568
+      },
+      {
+        "reference": "1 John 4:4",
+        "similarity": 0.55
+      },
+      {
+        "reference": "Psalm 143:10",
+        "similarity": 0.538
+      }
+    ],
+    "topic_distribution": [
+      0.071,
+      0.072,
+      0.071,
+      0.071,
+      0.072,
+      0.571,
+      0.072
+    ]
+  },
+  {
+    "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+    "reference": "Proverbs 3:5-6",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.69
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.678
+      },
+      {
+        "reference": "Proverbs 16:3",
+        "similarity": 0.653
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.828,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.",
+    "reference": "Psalm 23:1-3",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.588
+      },
+      {
+        "reference": "Zephaniah 3:17",
+        "similarity": 0.552
+      },
+      {
+        "reference": "Psalm 34:4-5",
+        "similarity": 0.544
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "reference": "Joshua 1:9",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Proverbs 3:5-6",
+        "similarity": 0.69
+      },
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.689
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.658
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "reference": "Romans 8:28",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.544
+      },
+      {
+        "reference": "John 3:16",
+        "similarity": 0.507
+      },
+      {
+        "reference": "Psalm 46:1",
+        "similarity": 0.492
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.892,
+      0.018,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.",
+    "reference": "Philippians 4:6-7",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.578
+      },
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.567
+      },
+      {
+        "reference": "1 Thessalonians 5:16-18",
+        "similarity": 0.561
+      }
+    ],
+    "topic_distribution": [
+      0.016,
+      0.905,
+      0.016,
+      0.016,
+      0.016,
+      0.016,
+      0.016
+    ]
+  },
+  {
+    "text": "The Lord is my light and my salvation\u2014whom shall I fear? The Lord is the stronghold of my life\u2014of whom shall I be afraid?",
+    "reference": "Psalm 27:1",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.61
+      },
+      {
+        "reference": "Psalm 91:1-2",
+        "similarity": 0.601
+      },
+      {
+        "reference": "Proverbs 9:10",
+        "similarity": 0.558
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.828
+    ]
+  },
+  {
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    "reference": "Isaiah 40:31",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Proverbs 16:9",
+        "similarity": 0.527
+      },
+      {
+        "reference": "Ephesians 6:10-11",
+        "similarity": 0.502
+      },
+      {
+        "reference": "Hebrews 12:1-2",
+        "similarity": 0.501
+      }
+    ],
+    "topic_distribution": [
+      0.893,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+    "reference": "1 Corinthians 13:4",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 8,
+    "cluster_label": "fear_love",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "1 John 4:18",
+        "similarity": 0.431
+      },
+      {
+        "reference": "Galatians 5:22-23",
+        "similarity": 0.403
+      },
+      {
+        "reference": "Song of Solomon 8:6-7",
+        "similarity": 0.39
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Therefore humble yourselves under the mighty hand of God, that He may exalt you in due time, casting all your care upon Him, for He cares for you.",
+    "reference": "1 Peter 5:6-7",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.579
+      },
+      {
+        "reference": "Psalm 118:24",
+        "similarity": 0.538
+      },
+      {
+        "reference": "Psalm 103:1-4",
+        "similarity": 0.536
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "reference": "Jeremiah 29:11",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.615
+      },
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.591
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.583
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.877,
+      0.02,
+      0.02,
+      0.021,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "text": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.",
+    "reference": "Numbers 6:24-26",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Psalm 103:1-4",
+        "similarity": 0.681
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.649
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.633
+      }
+    ],
+    "topic_distribution": [
+      0.014,
+      0.014,
+      0.914,
+      0.014,
+      0.014,
+      0.014,
+      0.014
+    ]
+  },
+  {
+    "text": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+    "reference": "1 Thessalonians 5:16-18",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Psalm 118:24",
+        "similarity": 0.659
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.598
+      },
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.59
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877,
+      0.021,
+      0.021
+    ]
+  },
+  {
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+    "reference": "Galatians 5:22-23",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.518
+      },
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.503
+      },
+      {
+        "reference": "Hebrews 4:12",
+        "similarity": 0.498
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857
+    ]
+  },
+  {
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "reference": "Matthew 11:28",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.535
+      },
+      {
+        "reference": "John 14:27",
+        "similarity": 0.527
+      },
+      {
+        "reference": "Psalm 94:18-19",
+        "similarity": 0.51
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785,
+      0.036
+    ]
+  },
+  {
+    "text": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+    "reference": "Proverbs 18:10",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Psalm 91:1-2",
+        "similarity": 0.552
+      },
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.494
+      },
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.481
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.785,
+      0.036,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "This is the day the Lord has made; let us rejoice and be glad in it.",
+    "reference": "Psalm 118:24",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "1 Thessalonians 5:16-18",
+        "similarity": 0.659
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.589
+      },
+      {
+        "reference": "Zephaniah 3:17",
+        "similarity": 0.547
+      }
+    ],
+    "topic_distribution": [
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.714,
+      0.048
+    ]
+  },
+  {
+    "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+    "reference": "John 14:27",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "John 16:33",
+        "similarity": 0.556
+      },
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.539
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.528
+      }
+    ],
+    "topic_distribution": [
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.914,
+      0.014,
+      0.014
+    ]
+  },
+  {
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "reference": "Psalm 34:18",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Psalm 46:1",
+        "similarity": 0.569
+      },
+      {
+        "reference": "Zephaniah 3:17",
+        "similarity": 0.567
+      },
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.556
+      }
+    ],
+    "topic_distribution": [
+      0.072,
+      0.071,
+      0.071,
+      0.071,
+      0.071,
+      0.071,
+      0.571
+    ]
+  },
+  {
+    "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+    "reference": "Matthew 6:34",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Philippians 4:6-7",
+        "similarity": 0.411
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.399
+      },
+      {
+        "reference": "Philippians 1:6",
+        "similarity": 0.363
+      }
+    ],
+    "topic_distribution": [
+      0.877,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "reference": "Matthew 6:33",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.583
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.569
+      },
+      {
+        "reference": "2 Peter 3:18",
+        "similarity": 0.566
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.785,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+    "reference": "James 1:5",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 3,
+    "cluster_label": "faith_prayer",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "2 Peter 3:18",
+        "similarity": 0.472
+      },
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.442
+      },
+      {
+        "reference": "Malachi 3:10",
+        "similarity": 0.441
+      }
+    ],
+    "topic_distribution": [
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.",
+    "reference": "Revelation 21:4",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.438
+      },
+      {
+        "reference": "1 John 1:9",
+        "similarity": 0.43
+      },
+      {
+        "reference": "Lamentations 3:22-23",
+        "similarity": 0.422
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "In their hearts humans plan their course, but the Lord establishes their steps.",
+    "reference": "Proverbs 16:9",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Isaiah 40:31",
+        "similarity": 0.527
+      },
+      {
+        "reference": "Hebrews 12:1-2",
+        "similarity": 0.469
+      },
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.45
+      }
+    ],
+    "topic_distribution": [
+      0.071,
+      0.571,
+      0.071,
+      0.071,
+      0.072,
+      0.071,
+      0.071
+    ]
+  },
+  {
+    "text": "God is our refuge and strength, an ever-present help in trouble.",
+    "reference": "Psalm 46:1",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.569
+      },
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.564
+      },
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.538
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Commit to the Lord whatever you do, and he will establish your plans.",
+    "reference": "Proverbs 16:3",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Proverbs 3:5-6",
+        "similarity": 0.653
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.593
+      },
+      {
+        "reference": "Colossians 3:23",
+        "similarity": 0.584
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.",
+    "reference": "Deuteronomy 31:8",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.689
+      },
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.61
+      },
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.593
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "reference": "1 John 1:9",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Ephesians 4:32",
+        "similarity": 0.538
+      },
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.536
+      },
+      {
+        "reference": "1 Timothy 6:12",
+        "similarity": 0.536
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.786,
+      0.036
+    ]
+  },
+  {
+    "text": "And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+    "reference": "Romans 12:2",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "2 Peter 3:18",
+        "similarity": 0.581
+      },
+      {
+        "reference": "Psalm 51:10",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Ephesians 4:32",
+        "similarity": 0.562
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "Iron sharpens iron, and one man sharpens another.",
+    "reference": "Proverbs 27:17",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 0,
+    "cluster_label": "peace",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Hebrews 4:12",
+        "similarity": 0.33
+      },
+      {
+        "reference": "Luke 6:31",
+        "similarity": 0.291
+      },
+      {
+        "reference": "Philippians 2:3-4",
+        "similarity": 0.233
+      }
+    ],
+    "topic_distribution": [
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.714,
+      0.048
+    ]
+  },
+  {
+    "text": "He who heeds the word wisely will find good, and whoever trusts in the Lord, happy is he.",
+    "reference": "Proverbs 16:20",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:8",
+        "similarity": 0.625
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.544
+      },
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.531
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is understanding.",
+    "reference": "Proverbs 9:10",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 8,
+    "cluster_label": "fear_love",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "2 Timothy 1:7",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.558
+      },
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.535
+      }
+    ],
+    "topic_distribution": [
+      0.877,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ.",
+    "reference": "2 Peter 3:18",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Ephesians 4:32",
+        "similarity": 0.603
+      },
+      {
+        "reference": "Romans 12:2",
+        "similarity": 0.581
+      },
+      {
+        "reference": "Philippians 4:13",
+        "similarity": 0.568
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ.",
+    "reference": "Philippians 1:6",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.494
+      },
+      {
+        "reference": "Jeremiah 29:11",
+        "similarity": 0.49
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.489
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877,
+      0.02
+    ]
+  },
+  {
+    "text": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+    "reference": "2 Corinthians 5:17",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "John 3:16",
+        "similarity": 0.43
+      },
+      {
+        "reference": "Genesis 1:1",
+        "similarity": 0.423
+      },
+      {
+        "reference": "Psalm 118:24",
+        "similarity": 0.419
+      }
+    ],
+    "topic_distribution": [
+      0.014,
+      0.914,
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.014
+    ]
+  },
+  {
+    "text": "My brethren, count it all joy when you fall into various trials, knowing that the testing of your faith produces patience.",
+    "reference": "James 1:2-3",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.516
+      },
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.499
+      },
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.482
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope.",
+    "reference": "Romans 5:3-4",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "John 16:33",
+        "similarity": 0.556
+      },
+      {
+        "reference": "Hebrews 12:1-2",
+        "similarity": 0.54
+      },
+      {
+        "reference": "Ephesians 2:8-9",
+        "similarity": 0.52
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.629,
+      0.029,
+      0.228,
+      0.029
+    ]
+  },
+  {
+    "text": "I press toward the goal for the prize of the upward call of God in Christ Jesus.",
+    "reference": "Philippians 3:14",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.463
+      },
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.46
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.454
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785
+    ]
+  },
+  {
+    "text": "Search me, O God, and know my heart; try me, and know my anxieties; and see if there is any wicked way in me, and lead me in the way everlasting.",
+    "reference": "Psalm 139:23-24",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Psalm 51:10",
+        "similarity": 0.497
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.472
+      },
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.47
+      }
+    ],
+    "topic_distribution": [
+      0.013,
+      0.013,
+      0.013,
+      0.013,
+      0.922,
+      0.013,
+      0.013
+    ]
+  },
+  {
+    "text": "Create in me a clean heart, O God, and renew a steadfast spirit within me.",
+    "reference": "Psalm 51:10",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.584
+      },
+      {
+        "reference": "Romans 12:2",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Acts 2:38",
+        "similarity": 0.565
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Teach me to do Your will, for You are my God; Your Spirit is good. Lead me in the land of uprightness.",
+    "reference": "Psalm 143:10",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.601
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.573
+      },
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.565
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "He must increase, but I must decrease.",
+    "reference": "John 3:30",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 3,
+    "cluster_label": "faith_prayer",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Ephesians 3:20",
+        "similarity": 0.374
+      },
+      {
+        "reference": "Psalm 23:1-3",
+        "similarity": 0.318
+      },
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.316
+      }
+    ],
+    "topic_distribution": [
+      0.048,
+      0.714,
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.048
+    ]
+  },
+  {
+    "text": "These things I have spoken to you, that in Me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world.",
+    "reference": "John 16:33",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Romans 5:3-4",
+        "similarity": 0.556
+      },
+      {
+        "reference": "John 14:27",
+        "similarity": 0.556
+      },
+      {
+        "reference": "1 John 4:4",
+        "similarity": 0.55
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877,
+      0.02
+    ]
+  },
+  {
+    "text": "Fear not, for I am with you; Be not dismayed, for I am your God. I will strengthen you, Yes, I will help you, I will uphold you with My righteous right hand.",
+    "reference": "Isaiah 41:10",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.756
+      },
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.601
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.55
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857
+    ]
+  },
+  {
+    "text": "For I, the Lord your God, will hold your right hand, Saying to you, 'Fear not, I will help you.'",
+    "reference": "Isaiah 41:13",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.756
+      },
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.593
+      },
+      {
+        "reference": "Jeremiah 29:11",
+        "similarity": 0.579
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.228,
+      0.024,
+      0.024,
+      0.024,
+      0.653
+    ]
+  },
+  {
+    "text": "I sought the Lord, and He heard me, And delivered me from all my fears. They looked to Him and were radiant, And their faces were not ashamed.",
+    "reference": "Psalm 34:4-5",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Psalm 23:1-3",
+        "similarity": 0.544
+      },
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.538
+      },
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.529
+      }
+    ],
+    "topic_distribution": [
+      0.571,
+      0.071,
+      0.071,
+      0.071,
+      0.071,
+      0.071,
+      0.071
+    ]
+  },
+  {
+    "text": "Oh, taste and see that the Lord is good; Blessed is the man who trusts in Him!",
+    "reference": "Psalm 34:8",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Proverbs 16:20",
+        "similarity": 0.625
+      },
+      {
+        "reference": "Lamentations 3:22-23",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.574
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope by the power of the Holy Spirit.",
+    "reference": "Romans 15:13",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Zephaniah 3:17",
+        "similarity": 0.634
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.631
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.612
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "If My people who are called by My name will humble themselves, and pray and seek My face, and turn from their wicked ways, then I will hear from heaven, and will forgive their sin and heal their land.",
+    "reference": "2 Chronicles 7:14",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Psalm 103:1-4",
+        "similarity": 0.578
+      },
+      {
+        "reference": "1 John 1:9",
+        "similarity": 0.534
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.527
+      }
+    ],
+    "topic_distribution": [
+      0.009,
+      0.009,
+      0.946,
+      0.009,
+      0.009,
+      0.009,
+      0.009
+    ]
+  },
+  {
+    "text": "Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself. Let each of you look out not only for his own interests, but also for the interests of others.",
+    "reference": "Philippians 2:3-4",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 0,
+    "cluster_label": "peace",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Hebrews 13:5",
+        "similarity": 0.354
+      },
+      {
+        "reference": "Luke 6:31",
+        "similarity": 0.323
+      },
+      {
+        "reference": "Colossians 3:23",
+        "similarity": 0.303
+      }
+    ],
+    "topic_distribution": [
+      0.785,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "If I say, 'My foot slips,' Your mercy, O Lord, will hold me up. In the multitude of my anxieties within me, Your comforts delight my soul.",
+    "reference": "Psalm 94:18-19",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.589
+      },
+      {
+        "reference": "Zephaniah 3:17",
+        "similarity": 0.543
+      },
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.53
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018
+    ]
+  },
+  {
+    "text": "Therefore do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?' For after all these things the Gentiles seek. For your heavenly Father knows that you need all these things.",
+    "reference": "Matthew 6:31-32",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Mark 11:24",
+        "similarity": 0.53
+      },
+      {
+        "reference": "Malachi 3:10",
+        "similarity": 0.529
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.483
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress; My God, in Him I will trust.'",
+    "reference": "Psalm 91:1-2",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.601
+      },
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.587
+      },
+      {
+        "reference": "Proverbs 18:10",
+        "similarity": 0.552
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.786,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "Delight yourself also in the Lord, and He shall give you the desires of your heart. Commit your way to the Lord, trust also in Him, and He shall bring it to pass.",
+    "reference": "Psalm 37:4-5",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Proverbs 3:5-6",
+        "similarity": 0.678
+      },
+      {
+        "reference": "Joshua 1:9",
+        "similarity": 0.658
+      },
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.633
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "I will lift up my eyes to the hills\u2014from whence comes my help? My help comes from the Lord, Who made heaven and earth.",
+    "reference": "Psalm 121:1-2",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.532
+      },
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.513
+      },
+      {
+        "reference": "Psalm 143:10",
+        "similarity": 0.507
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.893,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "Bless the Lord, O my soul; and all that is within me, bless His holy name! Bless the Lord, O my soul, and forget not all His benefits: Who forgives all your iniquities, Who heals all your diseases, Who redeems your life from destruction, Who crowns you with lovingkindness and tender mercies.",
+    "reference": "Psalm 103:1-4",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.681
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.594
+      },
+      {
+        "reference": "2 Chronicles 7:14",
+        "similarity": 0.578
+      }
+    ],
+    "topic_distribution": [
+      0.013,
+      0.013,
+      0.922,
+      0.013,
+      0.013,
+      0.013,
+      0.013
+    ]
+  },
+  {
+    "text": "Let the words of my mouth and the meditation of my heart be acceptable in Your sight, O Lord, my strength and my Redeemer.",
+    "reference": "Psalm 19:14",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Nehemiah 8:10",
+        "similarity": 0.611
+      },
+      {
+        "reference": "Psalm 94:18-19",
+        "similarity": 0.589
+      },
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.586
+      }
+    ],
+    "topic_distribution": [
+      0.629,
+      0.228,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Why are you cast down, O my soul? And why are you disquieted within me? Hope in God; for I shall yet praise Him, the help of my countenance and my God.",
+    "reference": "Psalm 42:11",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 23:1-3",
+        "similarity": 0.515
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.511
+      },
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.497
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "Cast your burden on the Lord, and He shall sustain you; He shall never permit the righteous to be moved.",
+    "reference": "Psalm 55:22",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Ephesians 6:10-11",
+        "similarity": 0.605
+      },
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.583
+      },
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.56
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785
+    ]
+  },
+  {
+    "text": "I will instruct you and teach you in the way you should go; I will guide you with My eye.",
+    "reference": "Psalm 32:8",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 143:10",
+        "similarity": 0.469
+      },
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.388
+      },
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.381
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.785,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "In the beginning God created the heavens and the earth.",
+    "reference": "Genesis 1:1",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.474
+      },
+      {
+        "reference": "2 Corinthians 5:17",
+        "similarity": 0.423
+      },
+      {
+        "reference": "Ecclesiastes 3:1",
+        "similarity": 0.405
+      }
+    ],
+    "topic_distribution": [
+      0.048,
+      0.714,
+      0.048,
+      0.048,
+      0.048,
+      0.048,
+      0.048
+    ]
+  },
+  {
+    "text": "The Lord will fight for you, and you shall hold your peace.",
+    "reference": "Exodus 14:14",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.649
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.612
+      },
+      {
+        "reference": "Jeremiah 29:11",
+        "similarity": 0.583
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.785,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "You shall not take vengeance, nor bear any grudge against the children of your people, but you shall love your neighbor as yourself: I am the Lord.",
+    "reference": "Leviticus 19:18",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.505
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.503
+      },
+      {
+        "reference": "Acts 1:8",
+        "similarity": 0.49
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785,
+      0.036
+    ]
+  },
+  {
+    "text": "But the Lord said to Samuel, 'Do not look at his appearance or at his physical stature, because I have refused him. For the Lord does not see as man sees; for man looks at the outward appearance, but the Lord looks at the heart.'",
+    "reference": "1 Samuel 16:7",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:4-5",
+        "similarity": 0.482
+      },
+      {
+        "reference": "Psalm 23:1-3",
+        "similarity": 0.438
+      },
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.437
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "As for God, His way is perfect; The word of the Lord is proven; He is a shield to all who trust in Him.",
+    "reference": "2 Samuel 22:31",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.568
+      },
+      {
+        "reference": "Psalm 46:1",
+        "similarity": 0.564
+      },
+      {
+        "reference": "Hebrews 4:12",
+        "similarity": 0.557
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.828,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Blessed be the Lord, who has given rest to His people Israel, according to all that He promised. There has not failed one word of all His good promise, which He promised through His servant Moses.",
+    "reference": "1 Kings 8:56",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.519
+      },
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.518
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.504
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "Do not sorrow, for the joy of the Lord is your strength.",
+    "reference": "Nehemiah 8:10",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.611
+      },
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.601
+      },
+      {
+        "reference": "1 Thessalonians 5:16-18",
+        "similarity": 0.59
+      }
+    ],
+    "topic_distribution": [
+      0.381,
+      0.048,
+      0.048,
+      0.381,
+      0.048,
+      0.048,
+      0.048
+    ]
+  },
+  {
+    "text": "For I know that my Redeemer lives, and He shall stand at last on the earth.",
+    "reference": "Job 19:25",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.507
+      },
+      {
+        "reference": "2 Chronicles 7:14",
+        "similarity": 0.506
+      },
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.504
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "To everything there is a season, a time for every purpose under heaven.",
+    "reference": "Ecclesiastes 3:1",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.44
+      },
+      {
+        "reference": "Psalm 118:24",
+        "similarity": 0.437
+      },
+      {
+        "reference": "Hebrews 12:1-2",
+        "similarity": 0.433
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.829,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Let us hear the conclusion of the whole matter: Fear God and keep His commandments, for this is man's all.",
+    "reference": "Ecclesiastes 12:13",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "2 Timothy 1:7",
+        "similarity": 0.565
+      },
+      {
+        "reference": "Isaiah 41:13",
+        "similarity": 0.525
+      },
+      {
+        "reference": "Ephesians 6:10-11",
+        "similarity": 0.515
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "Set me as a seal upon your heart, as a seal upon your arm; for love is as strong as death, jealousy as cruel as the grave; its flames are flames of fire, a most vehement flame. Many waters cannot quench love, nor can the floods drown it.",
+    "reference": "Song of Solomon 8:6-7",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 51:10",
+        "similarity": 0.484
+      },
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.473
+      },
+      {
+        "reference": "Psalm 94:18-19",
+        "similarity": 0.438
+      }
+    ],
+    "topic_distribution": [
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.914,
+      0.014
+    ]
+  },
+  {
+    "text": "Through the Lord's mercies we are not consumed, because His compassions fail not. They are new every morning; great is Your faithfulness.",
+    "reference": "Lamentations 3:22-23",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 34:8",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.547
+      },
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.539
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.828,
+      0.029
+    ]
+  },
+  {
+    "text": "If that is the case, our God whom we serve is able to deliver us from the burning fiery furnace, and He will deliver us from your hand, O king. But if not, let it be known to you, O king, that we do not serve your gods, nor will we worship the gold image which you have set up.",
+    "reference": "Daniel 3:17-18",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Acts 1:8",
+        "similarity": 0.517
+      },
+      {
+        "reference": "Malachi 3:10",
+        "similarity": 0.488
+      },
+      {
+        "reference": "Leviticus 19:18",
+        "similarity": 0.466
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "He has shown you, O man, what is good; and what does the Lord require of you but to do justly, to love mercy, and to walk humbly with your God?",
+    "reference": "Micah 6:8",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Psalm 23:1-3",
+        "similarity": 0.588
+      },
+      {
+        "reference": "Psalm 34:8",
+        "similarity": 0.574
+      },
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.568
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Behold the proud, his soul is not upright in him; but the just shall live by his faith.",
+    "reference": "Habakkuk 2:4",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Psalm 143:10",
+        "similarity": 0.601
+      },
+      {
+        "reference": "1 John 1:9",
+        "similarity": 0.536
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.532
+      }
+    ],
+    "topic_distribution": [
+      0.029,
+      0.029,
+      0.029,
+      0.828,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "The Lord your God in your midst, the Mighty One, will save; He will rejoice over you with gladness, He will quiet you with His love, He will rejoice over you with singing.",
+    "reference": "Zephaniah 3:17",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.634
+      },
+      {
+        "reference": "Numbers 6:24-26",
+        "similarity": 0.631
+      },
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.585
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Bring all the tithes into the storehouse, that there may be food in My house, and try Me now in this, says the Lord of hosts, if I will not open for you the windows of heaven and pour out for you such blessing that there will not be room enough to receive it.",
+    "reference": "Malachi 3:10",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Matthew 28:19-20",
+        "similarity": 0.541
+      },
+      {
+        "reference": "Matthew 6:31-32",
+        "similarity": 0.529
+      },
+      {
+        "reference": "Acts 1:8",
+        "similarity": 0.522
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877,
+      0.02
+    ]
+  },
+  {
+    "text": "You are the light of the world. A city that is set on a hill cannot be hidden. Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house. Let your light so shine before men, that they may see your good works and glorify your Father in heaven.",
+    "reference": "Matthew 5:14-16",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Psalm 91:1-2",
+        "similarity": 0.455
+      },
+      {
+        "reference": "Psalm 121:1-2",
+        "similarity": 0.44
+      },
+      {
+        "reference": "Malachi 3:10",
+        "similarity": 0.435
+      }
+    ],
+    "topic_distribution": [
+      0.008,
+      0.008,
+      0.952,
+      0.008,
+      0.008,
+      0.008,
+      0.008
+    ]
+  },
+  {
+    "text": "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.",
+    "reference": "Matthew 7:7-8",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Mark 11:24",
+        "similarity": 0.484
+      },
+      {
+        "reference": "Psalm 139:23-24",
+        "similarity": 0.446
+      },
+      {
+        "reference": "Malachi 3:10",
+        "similarity": 0.414
+      }
+    ],
+    "topic_distribution": [
+      0.828,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.",
+    "reference": "Matthew 28:19-20",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Acts 2:38",
+        "similarity": 0.619
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.566
+      },
+      {
+        "reference": "Acts 1:8",
+        "similarity": 0.56
+      }
+    ],
+    "topic_distribution": [
+      0.013,
+      0.013,
+      0.922,
+      0.013,
+      0.013,
+      0.013,
+      0.013
+    ]
+  },
+  {
+    "text": "Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them.",
+    "reference": "Mark 11:24",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 6,
+    "cluster_label": "peace_strength",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "Jeremiah 29:11",
+        "similarity": 0.546
+      },
+      {
+        "reference": "Psalm 103:1-4",
+        "similarity": 0.535
+      },
+      {
+        "reference": "Matthew 6:31-32",
+        "similarity": 0.53
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "And just as you want men to do to you, you also do to them likewise.",
+    "reference": "Luke 6:31",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Colossians 3:23",
+        "similarity": 0.598
+      },
+      {
+        "reference": "Ephesians 4:32",
+        "similarity": 0.45
+      },
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.376
+      }
+    ],
+    "topic_distribution": [
+      0.071,
+      0.071,
+      0.072,
+      0.571,
+      0.071,
+      0.071,
+      0.071
+    ]
+  },
+  {
+    "text": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.",
+    "reference": "Acts 1:8",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Romans 15:13",
+        "similarity": 0.585
+      },
+      {
+        "reference": "Exodus 14:14",
+        "similarity": 0.583
+      },
+      {
+        "reference": "Matthew 28:19-20",
+        "similarity": 0.56
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.018,
+      0.893
+    ]
+  },
+  {
+    "text": "Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit.",
+    "reference": "Acts 2:38",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.631
+      },
+      {
+        "reference": "Ephesians 4:32",
+        "similarity": 0.624
+      },
+      {
+        "reference": "Matthew 28:19-20",
+        "similarity": 0.619
+      }
+    ],
+    "topic_distribution": [
+      0.016,
+      0.016,
+      0.016,
+      0.016,
+      0.016,
+      0.016,
+      0.905
+    ]
+  },
+  {
+    "text": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.",
+    "reference": "Ephesians 2:8-9",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.531
+      },
+      {
+        "reference": "Romans 5:3-4",
+        "similarity": 0.52
+      },
+      {
+        "reference": "Isaiah 41:10",
+        "similarity": 0.513
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.877,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "text": "Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us.",
+    "reference": "Ephesians 3:20",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.489
+      },
+      {
+        "reference": "Romans 12:2",
+        "similarity": 0.487
+      },
+      {
+        "reference": "Philippians 4:13",
+        "similarity": 0.479
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857
+    ]
+  },
+  {
+    "text": "And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.",
+    "reference": "Ephesians 4:32",
+    "themes": [
+      "love_compassion"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 5,
+    "topic_label": "love_compassion",
+    "similar_verses": [
+      {
+        "reference": "Acts 2:38",
+        "similarity": 0.624
+      },
+      {
+        "reference": "2 Peter 3:18",
+        "similarity": 0.603
+      },
+      {
+        "reference": "1 Thessalonians 5:16-18",
+        "similarity": 0.573
+      }
+    ],
+    "topic_distribution": [
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.857,
+      0.024
+    ]
+  },
+  {
+    "text": "Finally, my brethren, be strong in the Lord and in the power of His might. Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+    "reference": "Ephesians 6:10-11",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.605
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.555
+      },
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.551
+      }
+    ],
+    "topic_distribution": [
+      0.018,
+      0.018,
+      0.018,
+      0.893,
+      0.018,
+      0.018,
+      0.018
+    ]
+  },
+  {
+    "text": "Set your mind on things above, not on things on the earth.",
+    "reference": "Colossians 3:2",
+    "themes": [
+      "help_plans"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 1,
+    "topic_label": "help_plans",
+    "similar_verses": [
+      {
+        "reference": "Romans 12:2",
+        "similarity": 0.444
+      },
+      {
+        "reference": "Proverbs 16:3",
+        "similarity": 0.439
+      },
+      {
+        "reference": "Psalm 143:10",
+        "similarity": 0.438
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.536,
+      0.286,
+      0.036,
+      0.036,
+      0.036,
+      0.036
+    ]
+  },
+  {
+    "text": "And whatever you do, do it heartily, as to the Lord and not to men.",
+    "reference": "Colossians 3:23",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Psalm 37:4-5",
+        "similarity": 0.607
+      },
+      {
+        "reference": "Luke 6:31",
+        "similarity": 0.598
+      },
+      {
+        "reference": "Proverbs 16:3",
+        "similarity": 0.584
+      }
+    ],
+    "topic_distribution": [
+      0.048,
+      0.048,
+      0.048,
+      0.714,
+      0.048,
+      0.048,
+      0.048
+    ]
+  },
+  {
+    "text": "Fight the good fight of faith, lay hold on eternal life, to which you were also called and have confessed the good confession in the presence of many witnesses.",
+    "reference": "1 Timothy 6:12",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 2,
+    "cluster_label": "faith_guidance_pray",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Acts 2:38",
+        "similarity": 0.613
+      },
+      {
+        "reference": "Proverbs 3:5-6",
+        "similarity": 0.551
+      },
+      {
+        "reference": "1 John 1:9",
+        "similarity": 0.536
+      }
+    ],
+    "topic_distribution": [
+      0.011,
+      0.011,
+      0.934,
+      0.011,
+      0.011,
+      0.011,
+      0.011
+    ]
+  },
+  {
+    "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
+    "reference": "2 Timothy 1:7",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 8,
+    "cluster_label": "fear_love",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "1 John 4:18",
+        "similarity": 0.582
+      },
+      {
+        "reference": "Proverbs 9:10",
+        "similarity": 0.575
+      },
+      {
+        "reference": "Ecclesiastes 12:13",
+        "similarity": 0.565
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877
+    ]
+  },
+  {
+    "text": "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, that the man of God may be complete, thoroughly equipped for every good work.",
+    "reference": "2 Timothy 3:16-17",
+    "themes": [
+      "peace_comfort"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 4,
+    "topic_label": "peace_comfort",
+    "similar_verses": [
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.507
+      },
+      {
+        "reference": "1 Kings 8:56",
+        "similarity": 0.492
+      },
+      {
+        "reference": "Romans 8:28",
+        "similarity": 0.489
+      }
+    ],
+    "topic_distribution": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.877,
+      0.021,
+      0.02
+    ]
+  },
+  {
+    "text": "For the word of God is living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+    "reference": "Hebrews 4:12",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 1,
+    "cluster_label": "faith_guidance_scripture",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "2 Samuel 22:31",
+        "similarity": 0.557
+      },
+      {
+        "reference": "Psalm 19:14",
+        "similarity": 0.52
+      },
+      {
+        "reference": "Psalm 34:18",
+        "similarity": 0.511
+      }
+    ],
+    "topic_distribution": [
+      0.857,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024,
+      0.024
+    ]
+  },
+  {
+    "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "reference": "Hebrews 11:1",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 3,
+    "cluster_label": "faith_prayer",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Hebrews 11:6",
+        "similarity": 0.475
+      },
+      {
+        "reference": "James 1:2-3",
+        "similarity": 0.415
+      },
+      {
+        "reference": "Mark 11:24",
+        "similarity": 0.415
+      }
+    ],
+    "topic_distribution": [
+      0.072,
+      0.072,
+      0.072,
+      0.571,
+      0.071,
+      0.071,
+      0.071
+    ]
+  },
+  {
+    "text": "But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him.",
+    "reference": "Hebrews 11:6",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 3,
+    "cluster_label": "faith_prayer",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "Matthew 6:33",
+        "similarity": 0.515
+      },
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.496
+      },
+      {
+        "reference": "Habakkuk 2:4",
+        "similarity": 0.482
+      }
+    ],
+    "topic_distribution": [
+      0.877,
+      0.021,
+      0.02,
+      0.021,
+      0.02,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "text": "Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.",
+    "reference": "Hebrews 12:1-2",
+    "themes": [
+      "prayer_worship"
+    ],
+    "cluster": 5,
+    "cluster_label": "faith_hope",
+    "topic": 2,
+    "topic_label": "prayer_worship",
+    "similar_verses": [
+      {
+        "reference": "Romans 5:3-4",
+        "similarity": 0.54
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.518
+      },
+      {
+        "reference": "Psalm 46:1",
+        "similarity": 0.516
+      }
+    ],
+    "topic_distribution": [
+      0.01,
+      0.01,
+      0.939,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ]
+  },
+  {
+    "text": "Let your conduct be without covetousness; be content with such things as you have. For He Himself has said, 'I will never leave you nor forsake you.'",
+    "reference": "Hebrews 13:5",
+    "themes": [
+      "hope_perseverance"
+    ],
+    "cluster": 7,
+    "cluster_label": "fear_strength",
+    "topic": 3,
+    "topic_label": "hope_perseverance",
+    "similar_verses": [
+      {
+        "reference": "Deuteronomy 31:8",
+        "similarity": 0.565
+      },
+      {
+        "reference": "Psalm 55:22",
+        "similarity": 0.495
+      },
+      {
+        "reference": "Micah 6:8",
+        "similarity": 0.457
+      }
+    ],
+    "topic_distribution": [
+      0.228,
+      0.029,
+      0.029,
+      0.629,
+      0.029,
+      0.029,
+      0.029
+    ]
+  },
+  {
+    "text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+    "reference": "1 John 4:4",
+    "themes": [
+      "spirit_transformation"
+    ],
+    "cluster": 4,
+    "cluster_label": "strength_wisdom",
+    "topic": 6,
+    "topic_label": "spirit_transformation",
+    "similar_verses": [
+      {
+        "reference": "John 16:33",
+        "similarity": 0.55
+      },
+      {
+        "reference": "Philippians 4:13",
+        "similarity": 0.55
+      },
+      {
+        "reference": "1 Peter 5:6-7",
+        "similarity": 0.526
+      }
+    ],
+    "topic_distribution": [
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.036,
+      0.785
+    ]
+  },
+  {
+    "text": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love.",
+    "reference": "1 John 4:18",
+    "themes": [
+      "strength_courage"
+    ],
+    "cluster": 8,
+    "cluster_label": "fear_love",
+    "topic": 0,
+    "topic_label": "strength_courage",
+    "similar_verses": [
+      {
+        "reference": "2 Timothy 1:7",
+        "similarity": 0.582
+      },
+      {
+        "reference": "Proverbs 9:10",
+        "similarity": 0.453
+      },
+      {
+        "reference": "Psalm 27:1",
+        "similarity": 0.447
+      }
+    ],
+    "topic_distribution": [
+      0.914,
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.014,
+      0.014
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Python
+src/analysis/venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Analysis output (large/regenerable)
+src/analysis/output/embeddings.npy
+
+# Local analysis scripts (kept out of git)
+analysis/
+
+# Project docs (personal)
+CLAUDE.md
+FORNICK.md
